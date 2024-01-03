@@ -38,3 +38,9 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.5'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
 }
+
+group = 'com.github.luoxuandev' // 替换为你的组ID
+version = '1.0.0' // 替换为你的版本号
+
+// 库的描述信息
+description = 'Make Android runtime permission request easy'
